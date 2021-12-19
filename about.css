@@ -1,0 +1,14 @@
+*{
+ padding: 0;
+ margin: 0;
+}
+.para{
+        padding-left: 20px;
+        padding-bottom: 25px;
+        font-family: Arial;
+        letter-spacing: 4px;
+        line-height: 50px;
+        color: white;
+        font-weight: 1200px;
+        font-size: large;
+    }
